@@ -231,6 +231,22 @@ print(classification_report(y_test, y_pred))
 
 ✔ Fitur yang paling berpengaruh berdasarkan feature importance adalah [isi setelah jalankan notebook], menunjukkan bahwa polutan tersebut menjadi penentu utama kategori kualitas udara di DKI Jakarta.
 
+## Deployment
+
+Untuk memberikan dampak praktis, model **Random Forest Classifier** yang telah dilatih dengan akurasi terbaik diintegrasikan ke dalam sebuah aplikasi web interaktif. Aplikasi ini dideploy secara publik menggunakan platform **Hugging Face Spaces**.
+
+Dengan adanya deployment ini, pengguna atau pemangku kebijakan dapat melakukan prediksi kualitas udara secara *real-time* tanpa perlu memahami baris kode pemrograman.
+
+🔗 **Tautan Aplikasi:** [Web Prediksi Kualitas Udara ISPU Jakarta](https://nazwasm-kualitasudaradkijakarta.hf.space/?__theme=system&deep_link=_L0pKLKNpXw)
+
+### 🛠️ Fitur & Cara Penggunaan Aplikasi:
+1. **Input Parameter Polutan:** Pengguna cukup memasukkan nilai metrik sensor yang terdeteksi pada hari itu, meliputi: `PM10`, `PM2.5`, `SO2`, `CO`, `O3`, dan `NO2`.
+2. **Prediksi Instan:** Setelah menekan tombol prediksi, sistem backend di Hugging Face akan langsung mengolah angka tersebut menggunakan model Random Forest yang sudah disimpan (`.joblib` / `.pkl`).
+3. **Output Kategori:** Aplikasi akan langsung menampilkan hasil klasifikasi akhir status udara (misal: *Baik*, *Sedang*, atau *Tidak Sehat*) secara instan.
+
+:computer: **Tampilan Antarmuka Aplikasi (Hugging Face):**
+![Antarmuka Hugging Face](TARIK_GAMBAR_SCREENSHOT_HUGGING_FACE_KAMU_DISINI)
+
 # Kesimpulan
 
 ✔ Model Random Forest berhasil dibangun untuk mengklasifikasikan kualitas udara DKI Jakarta ke dalam 3 kategori: BAIK, SEDANG, dan TIDAK SEHAT.
