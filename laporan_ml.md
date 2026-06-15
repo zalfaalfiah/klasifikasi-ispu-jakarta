@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Polusi Jakarta](https://github.com/user-attachments/assets/24126c75-bf38-42f4-87e8-1181b690cf3a)
+![Polusi Jakarta](http://googleusercontent.com/image_collection/image_retrieval/14264519298144049457)
 
 ![Ilustrasi Polusi Udara](https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=1000&auto=format&fit=crop)
 
