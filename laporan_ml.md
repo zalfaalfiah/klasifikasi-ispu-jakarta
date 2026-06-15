@@ -245,7 +245,14 @@ Dengan adanya deployment ini, pengguna atau pemangku kebijakan dapat melakukan p
 3. **Output Kategori:** Aplikasi akan langsung menampilkan hasil klasifikasi akhir status udara (misal: *Baik*, *Sedang*, atau *Tidak Sehat*) secara instan.
 
 :computer: **Tampilan Antarmuka Aplikasi (Hugging Face):**
-![Antarmuka Hugging Face](TARIK_GAMBAR_SCREENSHOT_HUGGING_FACE_KAMU_DISINI)
+
+![hugging face](https://github.com/user-attachments/assets/7acd962c-fd0b-4a7b-a894-048791e86dee)
+
+![sedang](https://github.com/user-attachments/assets/cf560ac6-8fd4-4b39-a67a-978584015eb5)
+
+![sedang](https://github.com/user-attachments/assets/a93e3463-4e32-414a-a7c3-ff80bc53069e)
+
+![tidak sehat](https://github.com/user-attachments/assets/19594f96-5b72-4e52-b5da-6b8af5a01215)
 
 # Kesimpulan
 
