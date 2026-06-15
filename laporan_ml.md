@@ -4,8 +4,6 @@
 
 ![Polusi Jakarta](https://github.com/user-attachments/assets/bd5c350d-b6bb-42c7-be58-eab54c8bfc91)
 
-![Ilustrasi Polusi Udara](https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=1000&auto=format&fit=crop)
-
 Pencemaran udara merupakan permasalahan lingkungan yang kritis di DKI Jakarta akibat tingginya mobilitas dan aktivitas industri, sehingga masyarakat dan pemangku kebijakan sangat membutuhkan sistem peringatan dini yang otomatis dan mudah dipahami. Proyek ini bertujuan untuk membangun model klasifikasi cerdas yang mampu memprediksi kategori Indeks Standar Pencemaran Udara (ISPU) secara otomatis berdasarkan input parameter gas polutan tanpa memerlukan perhitungan manual. Mengacu pada standar metodologi CRISP-DM (Cross-Industry Standard Process for Data Mining), pengembangan sistem ini menggunakan algoritma machine learning *Random Forest* untuk mencapai tingkat akurasi yang tinggi dalam mengenali pola klasifikasi yang kompleks, guna mendukung tindakan mitigasi yang cepat dan pengambilan keputusan yang tepat di bidang kesehatan masyarakat.
 
 💡 Manfaat Proyek:
