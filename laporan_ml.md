@@ -1,6 +1,6 @@
-# Laporan Proyek Machine Learning - Zalfa Alfiah Anasya (2330511015) & Nazwa Syafiya Mirzal (2330511032)
+# Laporan Proyek Machine Learning - Klasifikasi ISPU Jakarta
 
-## Project Overview
+## Zalfa Alfiah Anasya (2330511015) & Nazwa Syafiya Mirzal (2330511032)
 
 ![Ilustrasi Polusi Udara](https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=1000&auto=format&fit=crop)
 
