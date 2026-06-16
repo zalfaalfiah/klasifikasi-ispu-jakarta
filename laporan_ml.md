@@ -229,7 +229,7 @@ print(classification_report(y_test, y_pred))
 
 ✔ Parameter class_weight='balanced' terbukti membantu model dalam mengenali kelas BAIK yang jumlah datanya lebih sedikit.
 
-✔ Fitur yang paling berpengaruh berdasarkan feature importance adalah [isi setelah jalankan notebook], menunjukkan bahwa polutan tersebut menjadi penentu utama kategori kualitas udara di DKI Jakarta.
+✔ Fitur yang paling berpengaruh berdasarkan feature importance adalah 03, menunjukkan bahwa polutan tersebut menjadi penentu utama kategori kualitas udara di DKI Jakarta.
 
 ## Deployment
 
