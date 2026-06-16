@@ -1,6 +1,6 @@
 # Laporan Proyek Machine Learning - Klasifikasi ISPU Jakarta
 
-## Zalfa Alfiah Anasya (2330511015) & Nazwa Syafiya Mirzal (2330511032)
+## Zalfa Alfiah Anasya (2330511015) & Nazwa Syafiya Mirzal (2330511031)
 
 ![Polusi Jakarta](https://github.com/user-attachments/assets/bd5c350d-b6bb-42c7-be58-eab54c8bfc91)
 
